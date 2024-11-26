@@ -21,7 +21,7 @@ export default function about() {
         </Text>
         <Pressable
           onPress={() =>
-            Linking.openURL("https://github.com/BacelarJV/Avalia--o-React-1")
+            Linking.openURL("https://github.com/BacelarJV/Avaliation-React-1")
           }
         >
           <Text style={styles.link}>Meu GitHub</Text>
